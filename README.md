@@ -1,6 +1,6 @@
 # Inspiration
 
-This is a Eight Queen Puzzle Solver Simulation which was developed by using Java.
+This is an Eight Queen Puzzle Solver Simulation which was developed by using Java.
 
 ![Program](./ScreenShots/img1.png)
 
